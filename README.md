@@ -6,6 +6,8 @@
   📌 No momento, estou aprendendo HTML e CSS.
 </h3>
 
+<h3 align="center"> 
+  📌 No meu tempo livre, faço exercícios de maratonas de programação.
 <h3 align="center">
   📌 Faça parte da minha rede:
   <a href="https://www.linkedin.com/in/daniele-carvalho-12b25131b/" target="_blank">
