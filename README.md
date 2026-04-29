@@ -6,11 +6,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9B59B6&width=435&lines=Olá,+eu+sou+a+Dani!;Um+pouco+sobre+mim:;" alt="Typing SVG" />
 </p>
 
-### 🟣 Sou estudante de **Ciência da Computação**.
+### Ciência da Computação - Unioeste.
 
-### 🟣 Tenho aprendido HTML e CSS, veja alguns projetos disponíveis no meu perfil.
+### Interesses atuais: programação competitiva, HTML/CSS/JS.
 
-### 🟣 No meu tempo livre, faço exercícios de programação competitiva.
+### Principais repositórios: Maratona, Reunião.
 
 ---
 
