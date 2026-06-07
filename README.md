@@ -14,8 +14,6 @@
 
 ---
 
-### 🟣 Principais tecnologias
-
 ### Tecnologias
 
 | Categoria | Tecnologias |
@@ -27,7 +25,7 @@
 
 ---
 
-### 🟣 Como me encontrar
+### Como me encontrar
 
 <p align="left">
   <a href="mailto:contato.danielenericarvalho@gmail.com">
@@ -43,7 +41,7 @@
 
 ---
 
-### 🟣 Minhas contribuições
+### Minhas contribuições
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=daniele-carvalho&show_icons=true&theme=dracula&border_color=9b59b6&title_color=9b59b6&icon_color=bb86fc" />
