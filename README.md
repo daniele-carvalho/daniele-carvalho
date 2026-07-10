@@ -8,9 +8,11 @@
 
 ### Ciência da Computação - Unioeste.
 
-### Interesses atuais: programação competitiva, HTML/CSS/JS.
+- Bolsista de Iniciação Tecnológica e Inovação na empresa Itaipu Parquetec.
 
-### Principais repositórios: Maratona, Reunião.
+- Interesses atuais: programação competitiva, HTML/CSS/JS, estrutura de dados em C.
+
+- Principais repositórios: Maratona, Reunião, algoritmo_e_estrutura_de_dados.
 
 ---
 
